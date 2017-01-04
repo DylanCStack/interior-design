@@ -1,0 +1,24 @@
+div {
+  float:left;
+  max-width: 30%;
+}
+
+.before {
+  background-color: lightgreen;
+}
+
+.during {
+  background-color: skyblue;
+}
+
+.after {
+  background-color: pink;
+}
+
+body {
+  background-color: beige;
+}
+img {
+  width:300px;
+  height:auto;
+}
